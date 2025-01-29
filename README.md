@@ -1,4 +1,4 @@
-# HealthCentre Project
+# Health Centre Project
 
 ##Table of Contents
 University OOP Coursework on Java
